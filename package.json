@@ -5,6 +5,7 @@
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
+    "build": "echo \"Building the project...\"",
     "test": "echo \"Error: no test specified\""
   },
   "keywords": [],
